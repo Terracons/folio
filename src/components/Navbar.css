@@ -1,0 +1,20 @@
+.Nav-menu{
+    display: flex;
+}
+
+.Nav-menu li {
+    padding: 0 1rem;
+}
+
+
+.Nav-menu li a{
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
